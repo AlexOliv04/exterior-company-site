@@ -1,10 +1,13 @@
+import Hero from '../components/Hero'
+import ServicesPreview from '../components/ServicesPreview'
+
 function Home() {
-    return (
-        <main>
-            <h1> Home</h1>
-            <p>Placeholder - homepage content comes later.</p>
-        </main>
-    )
+  return (
+    <main>
+      <Hero />
+      <ServicesPreview />
+    </main>
+  )
 }
 
 export default Home
