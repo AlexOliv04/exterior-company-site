@@ -1,0 +1,60 @@
+---
+description: Exterior construction company website project rules
+alwaysApply: true
+---
+
+# Project Overview
+
+This project is a professional website for an exterior construction company.
+
+The goal is to create a modern website that helps the company:
+- attract direct customers
+- showcase completed projects
+- maintain contractor partnerships
+
+
+# Business Context
+
+The company specializes in:
+
+- siding installation
+- aluminum exterior wrapping
+- window capping
+- gutters
+- exterior finishing
+- shutters
+
+
+# Technology
+
+Use:
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+
+
+# Design Goals
+
+The website should feel:
+
+- professional
+- trustworthy
+- modern
+- high quality
+
+Avoid:
+- excessive animations
+- flashy startup designs
+
+
+# Coding Style
+
+Prefer:
+
+- reusable components
+- clean folder structure
+- mobile-first responsive design
+- semantic HTML
